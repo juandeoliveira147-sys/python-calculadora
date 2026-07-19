@@ -30,3 +30,5 @@ Projeto deselvolvido durante minha jornada de aprendizado em Python.
 - Criar histórico de cálculos
 - Salvar dados em JSON
 - Criar interface gráfica
+
+  Mais um passo concluído na minha jornada de aprendizado
