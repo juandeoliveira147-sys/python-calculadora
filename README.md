@@ -31,4 +31,4 @@ Projeto deselvolvido durante minha jornada de aprendizado em Python.
 - Salvar dados em JSON
 - Criar interface gráfica
 
-  Mais um passo concluído na minha jornada de aprendizado
+ ### Mais um passo concluído na minha jornada de aprendizado
